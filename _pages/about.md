@@ -1,25 +1,43 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='mailto:zhuohang.li@vanderbilt.edu'>Email</a> | <a href='https://scholar.google.com/citations?user=_FgPQ50AAAAJ&hl=en'>Google Scholar</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.JPG
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: #>
+    #<p>400 24th Ave S</p>
+    #<p>Nashville, TN 37235</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello and welcome! I am a PhD student in Computer Science at [Vanderbilt](https://www.vanderbilt.edu/). Previously, I earned my MS from [Rutgers](https://www.rutgers.edu/) and my BS from [UESTC](https://en.uestc.edu.cn/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am generally interested in topics within the field of trustworthy machine learning, with the goal of understanding the failure modes of ML models and designing robust, private, and generalizable ML systems for security and privacy critical applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+
+<!-- Default Statcounter code for Github Homepage
+https://zhuohangli.github.io -->
+<script type="text/javascript">
+var sc_project=12841847;
+var sc_invisible=1;
+var sc_security="29dd2cdb";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12841847/0/29dd2cdb/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
