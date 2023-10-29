@@ -1,6 +1,38 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# "CCS":
+#   url: https://dl.acm.org/conference/ccs
+#   color: "#ECB748"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "AsiaCCS":
+#   url: https://dl.acm.org/conference/asia-ccs
+#   color: "#ECB748"
+
+# "ACSAC":
+#   url: https://www.acsac.org/
+#   color: "#ECB748"
+
+# "AAAI":
+#   url: https://aaai.org/aaai-conference/
+#   color: "#1565C0"
+
+# "CVPR":
+#   url: https://cvpr.thecvf.com/
+#   color: "#1565C0"
+
+# "ECCV":
+#   url: https://eccv2022.ecva.net/
+#   color: "#1565C0"
+
+# "ICMLW":
+#   color: "#1565C0"
+
+# "MobiCom":
+#   url: https://dl.acm.org/conference/mobicom
+#   color: "#8BA18E"
+
+# "HotMobile":
+#   url: https://dl.acm.org/conference/hotmobile
+#   color: "#8BA18E"
+
+# "GetMobile":
+#   url: https://dl.acm.org/conference/hotmobile
+#   color: "#8BA18E"
