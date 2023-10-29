@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: <i class="fas fa-user"></i>
 permalink: /
 subtitle: <a href='mailto:zhuohang.li@vanderbilt.edu'>Email</a> | <a href='https://scholar.google.com/citations?user=_FgPQ50AAAAJ&hl=en'>Google Scholar</a>
 
@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello and welcome! I am a PhD student in Computer Science at [Vanderbilt](https://www.vanderbilt.edu/). Previously, I earned my MS from [Rutgers](https://www.rutgers.edu/) and my BS from [UESTC](https://en.uestc.edu.cn/).
+I am a PhD student in Computer Science at [Vanderbilt](https://www.vanderbilt.edu/). Previously, I earned my MS from [Rutgers](https://www.rutgers.edu/) and my BS from [UESTC](https://en.uestc.edu.cn/).
 
-I am generally interested in topics within the field of trustworthy machine learning, with the goal of understanding the failure modes of ML models and designing robust, private, and generalizable ML systems for security and privacy critical applications.
+My interest is in the field of trustworthy machine learning. My work aims to improve the understanding of the failure modes of machine learning models to assist the design of _robust_, _private_, and _generalizable_ machine learning systems for security and privacy critical applications.
 
 
 
