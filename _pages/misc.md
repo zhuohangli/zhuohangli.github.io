@@ -24,12 +24,13 @@ nav_order: 6
 ---
 
 ##### Conference Reviewer / Program Committee Member
+- International Conference on Machine Learning (ICML), 2024
+- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023, 2024
 - International Conference on Learning Representations (ICLR), 2024
 - AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 - Neural Information Processing Systems (NeurIPS), 2023
 - International Conference on Computer Vision (ICCV), 2023
-- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023
 - IEEE International Conference on Data Mining (ICDM), 2023
 - Machine Learning for Healthcare (MLHC), 2023
 - International Symposium on Cyber Security, Cryptology and Machine Learning
@@ -62,6 +63,7 @@ nav_order: 6
 - Merit Scholarship, UESTC, 2016
 
 ##### Miscellaneous Awards
+- Student Innovation Award, AMIA KDDM, 2023
 - Student Travel Grant, ACM CCS, 2022
 - Travel Grant Award, CVPR, 2022
 - GSS Travel Award, UTK Graduate Student Senate, 2022
