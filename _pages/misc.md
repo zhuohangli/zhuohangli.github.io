@@ -10,7 +10,7 @@ nav_order: 6
 
 ### Experience
 ---
-[Amazon Web Services](https://aws.amazon.com/security/), Summer 2023
+[Amazon Web Services](https://aws.amazon.com/security/), Summer 2024
 - Applied Scientist Intern, Security Analytics and AI Research Team
 - Language modeling for security risk prediction
 
@@ -70,7 +70,7 @@ nav_order: 6
 
 ##### Miscellaneous Awards
 - Graduate School Travel Grant, Vanderbilt University, 2023, 2024
-- Student Innovation Award, AMIA KDDM, 2023
+- Student Innovation Award (2nd Place), AMIA KDDM, 2023
 - Student Travel Grant, ACM CCS, 2022
 - Travel Grant Award, CVPR, 2022
 - GSS Travel Award, UTK Graduate Student Senate, 2022
