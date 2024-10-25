@@ -10,13 +10,17 @@ nav_order: 6
 
 ### Experience
 ---
+[Amazon Web Services](https://aws.amazon.com/security/), Summer 2023
+- Applied Scientist Intern, Security Analytics and AI Research Team
+- Language modeling for security risk prediction
+
 [Mitsubishi Electric Research Laboratories](https://www.merl.com/), Summer 2023
+- Research Intern, Connectivity & Information Processing Team
 - Privacy-preserving machine learning
-- Host: _Ye Wang, Jing Liu, Toshiaki Koike-Akino, Kieran Parsons_
 
 [NEC Labs America](https://www.nec-labs.com/), Summer 2022
+- Research Intern, Data Science & System Security Team
 - Robust learning under covariate shift and concept drift 
-- Host: _Liang Tong, Jingchao Ni, Zhengzhang Chen, Wei Cheng, Haifeng Chen_
 
 <br>
 
@@ -25,12 +29,13 @@ nav_order: 6
 ---
 
 ##### Conference Reviewer / Program Committee Member
+- Neural Information Processing Systems (NeurIPS), 2024
 - International Conference on Machine Learning (ICML), 2024
+- Empirical Methods in Natural Language Processing (EMNLP), 2024
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023, 2024
 - International Conference on Learning Representations (ICLR), 2024
 - AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
-- Neural Information Processing Systems (NeurIPS), 2023
 - International Conference on Computer Vision (ICCV), 2023
 - IEEE International Conference on Data Mining (ICDM), 2023
 - Machine Learning for Healthcare (MLHC), 2023
@@ -64,6 +69,7 @@ nav_order: 6
 - Merit Scholarship, UESTC, 2016
 
 ##### Miscellaneous Awards
+- Graduate School Travel Grant, Vanderbilt University, 2023, 2024
 - Student Innovation Award, AMIA KDDM, 2023
 - Student Travel Grant, ACM CCS, 2022
 - Travel Grant Award, CVPR, 2022
