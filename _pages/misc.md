@@ -10,6 +10,10 @@ nav_order: 6
 
 ### Experience
 ---
+[Google](https://www.google.com/), Summer 2025
+- Student Researcher, Gemini Quality and Tooling Team
+- LLM post-training and agent quality
+
 [Amazon Web Services](https://aws.amazon.com/security/), Summer 2024
 - Applied Scientist Intern, Security Analytics and AI Research Team
 - Language modeling for security risk prediction
