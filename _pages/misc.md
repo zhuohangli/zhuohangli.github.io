@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /misc/
-title: Misc
+title: <i class="fas fa-chevron-down"></i>
 description:
 nav: True
 nav_title: <i class="fas fa-chevron-down"></i>

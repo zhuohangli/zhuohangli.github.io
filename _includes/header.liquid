@@ -7,14 +7,15 @@
           {% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">
-                {{- site.first_name -}}
+                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gaegu">
+                <span style="font-family: Gaegu; font-weight:bold">{{- site.first_name -}}&nbsp;</span>
               </span>
             {% endif %}
             {% if site.middle_name %}
               {{- site.middle_name -}}
             {% endif %}
             {% if site.last_name %}
-              {{- site.last_name -}}
+              <span style="font-family: Gaegu; font-weight:300">{{- site.last_name -}}</span>
             {% endif %}
           {% else %}
             {{- site.title -}}
