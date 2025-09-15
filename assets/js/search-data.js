@@ -9,33 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
+  },{id: "nav-lt-i-class-quot-fa-fa-book-quot-gt-lt-i-gt",
+          title: "&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt;",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-misc",
-          title: "Misc",
+        },{id: "nav-lt-i-class-quot-fas-fa-chevron-down-quot-gt-lt-i-gt",
+          title: "&lt;i class=&quot;fas fa-chevron-down&quot;&gt;&lt;/i&gt;",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/misc/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
