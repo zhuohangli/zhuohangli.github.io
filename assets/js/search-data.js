@@ -9,15 +9,15 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-lt-i-class-quot-fa-fa-book-quot-gt-lt-i-gt",
-          title: "&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt;",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-lt-i-class-quot-fas-fa-chevron-down-quot-gt-lt-i-gt",
-          title: "&lt;i class=&quot;fas fa-chevron-down&quot;&gt;&lt;/i&gt;",
+        },{id: "nav-misc",
+          title: "Misc",
           description: "",
           section: "Navigation",
           handler: () => {
