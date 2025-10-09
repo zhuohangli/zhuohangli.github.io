@@ -7,7 +7,7 @@ subtitle: <a href='mailto:zhuohang.li@vanderbilt.edu'>Email</a> | <a href='https
 profile:
   align: right
   image: avatar.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: #>
     #<p>400 24th Ave S</p>
     #<p>Nashville, TN 37235</p>
@@ -19,9 +19,10 @@ social: false  # includes social icons at the bottom of the page
 
 I am a PhD student in Computer Science at [Vanderbilt](https://www.vanderbilt.edu/). Previously, I earned my MS from [Rutgers](https://www.rutgers.edu/) and my BS from [UESTC](https://en.uestc.edu.cn/).
 
-My interest is in the field of trustworthy machine learning. My work aims to improve the understanding of the failure modes of machine learning models to assist the design of _robust_, _private_, and _generalizable_ machine learning systems for security and privacy critical applications.
+My research is in the field of trustworthy machine learning, where I work to make AI systems safer and more dependable. My work identifies and mitigates critical failure modes in modern machine learning models, with a focus on:
 
-
+* **Reliability in LLMs**: Improving model dependability by assessing [knowledge relevance](https://arxiv.org/abs/2410.08320), preventing [hallucinations](https://arxiv.org/abs/2311.01740), ensuring [factuality](https://arxiv.org/abs/2502.20560), and improving [alignment](https://arxiv.org/abs/2510.00263v1) with human preferences.
+* **Security and Privacy in AI**: Defending against [adversarial](https://arxiv.org/abs/2506.06003) [attacks](https://dl.acm.org/doi/abs/10.1145/3372297.3423348) and analyzing [privacy](https://arxiv.org/abs/2408.16913) [risks](https://arxiv.org/abs/2203.15696) in machine learning systems.
 
 
 <!-- Default Statcounter code for Github Homepage

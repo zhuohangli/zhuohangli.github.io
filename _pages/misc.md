@@ -14,7 +14,7 @@ nav_order: 6
 - Student Researcher, Gemini Quality and Tooling Team
 - LLM post-training and agent quality
 
-[Amazon Web Services](https://aws.amazon.com/security/), Summer 2024
+[Amazon Web Services](https://aws.amazon.com/), Summer 2024
 - Applied Scientist Intern, Security Analytics and AI Research Team
 - Language modeling for security risk prediction
 
@@ -32,12 +32,12 @@ nav_order: 6
 ### Service
 ---
 
-##### Conference Reviewer / Program Committee Member
+##### Conference Reviewer
+- International Conference on Learning Representations (ICLR), 2024, 2026
+- Empirical Methods in Natural Language Processing (EMNLP), 2024, 2025
 - Neural Information Processing Systems (NeurIPS), 2024
 - International Conference on Machine Learning (ICML), 2024
-- Empirical Methods in Natural Language Processing (EMNLP), 2024
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023, 2024
-- International Conference on Learning Representations (ICLR), 2024
 - AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 - International Conference on Computer Vision (ICCV), 2023
@@ -45,7 +45,6 @@ nav_order: 6
 - Machine Learning for Healthcare (MLHC), 2023
 - International Symposium on Cyber Security, Cryptology and Machine Learning
 (CSCML), 2023
-- International Workshop on Federated Learning for Computer Vision (FedVision), 2023
 - European Conference on Computer Vision (ECCV), 2022
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022
 
