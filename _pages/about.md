@@ -16,8 +16,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
-I am a PhD student in Computer Science at [Vanderbilt](https://www.vanderbilt.edu/). Previously, I earned my MS from [Rutgers](https://www.rutgers.edu/) and my BS from [UESTC](https://en.uestc.edu.cn/).
+I am a PhD candidate in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/), with research internship experience at Google, Amazon, MERL, and NEC Labs. I hold an MS from [Rutgers](https://www.rutgers.edu/) and a BS from [UESTC](https://en.uestc.edu.cn/).
 
 My research is in the field of trustworthy machine learning, where I work to make AI systems safer and more dependable. My work identifies and mitigates critical failure modes in modern machine learning models, with a focus on:
 
