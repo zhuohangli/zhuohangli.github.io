@@ -8,7 +8,7 @@ nav_title: <i class="fas fa-chevron-down"></i>
 nav_order: 6
 ---
 
-### Experience
+### Research Experience
 ---
 [Google](https://www.google.com/), Summer 2025
 - Student Researcher, Gemini Quality and Tooling Team
@@ -33,20 +33,20 @@ nav_order: 6
 ---
 
 ##### Conference Reviewer
-- International Conference on Learning Representations (ICLR), 2024, 2026
-- Empirical Methods in Natural Language Processing (EMNLP), 2024, 2025
-- Neural Information Processing Systems (NeurIPS), 2024
-- International Conference on Machine Learning (ICML), 2024
-- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023, 2024
-- AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024
-- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
-- International Conference on Computer Vision (ICCV), 2023
-- IEEE International Conference on Data Mining (ICDM), 2023
-- Machine Learning for Healthcare (MLHC), 2023
-- International Symposium on Cyber Security, Cryptology and Machine Learning
-(CSCML), 2023
-- European Conference on Computer Vision (ECCV), 2022
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022
+- International Conference on Machine Learning (ICML)
+- International Conference on Learning Representations (ICLR)
+- Neural Information Processing Systems (NeurIPS)
+- Empirical Methods in Natural Language Processing (EMNLP)
+- Annual Meeting of the Association for Computational Linguistics (ACL)
+- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+- International Conference on Computer Vision (ICCV)
+- European Conference on Computer Vision (ECCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- IEEE International Conference on Data Mining (ICDM)
+- Machine Learning for Healthcare (MLHC)
+- International Symposium on Cyber Security, Cryptology and Machine Learning (CSCML)
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 
 ##### Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
@@ -62,22 +62,19 @@ nav_order: 6
 <br>
 
 
-### Honors
+### Awards
 ---
 
-##### Fellowship / Scholarship
-- Tennessee’s Top 100 Fellowship, UTK Graduate School, 2020-2023
-- [Gonzalez Family Outstanding GRA Award](https://www.eecs.utk.edu/2022-eecs-gonzalez-family-awards-announced/), UTK EECS, 2022
-- EECS Fellowship Award, UTK, 2020
-- Merit Scholarship, UESTC, 2016
-
-##### Miscellaneous Awards
-- Graduate School Travel Grant, Vanderbilt University, 2023, 2024
+- Graduate School Travel Grant, Vanderbilt University, 2023-2025
 - Student Innovation Award (2nd Place), AMIA KDDM, 2023
+- Tennessee’s Top 100 Fellowship, UTK Graduate School, 2020-2022
+- Gonzalez Family Outstanding GRA Award, UTK EECS, 2022
 - Student Travel Grant, ACM CCS, 2022
 - Travel Grant Award, CVPR, 2022
 - GSS Travel Award, UTK Graduate Student Senate, 2022
-- [SIGMOBILE Research Highlights](https://www.sigmobile.org/grav/publications/research-highlights), ACM SIGMOBILE, 2022
+- SIGMOBILE Research Highlights, ACM SIGMOBILE, 2022
 - Student Travel Grant, ACM MobiCom, 2021
 - Student Conference Grant, ACM CCS, 2020, 2021
 - Student Travel Award, ACM HotMobile, 2020
+- EECS Fellowship Award, UTK, 2020
+- Merit Scholarship, UESTC, 2016
