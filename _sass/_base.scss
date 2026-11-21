@@ -741,6 +741,13 @@ footer.sticky-bottom {
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
 
+          // venue-colored badges (_data/venues.yml) keep white text in both light and dark mode
+          // (the label sits in a <div>, which the theme otherwise forces to --global-text-color)
+          &[style],
+          &[style] div {
+            color: white !important;
+          }
+
           a {
             color: white;
 

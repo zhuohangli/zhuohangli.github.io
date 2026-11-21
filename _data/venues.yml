@@ -1,38 +1,75 @@
-# "CCS":
-#   url: https://dl.acm.org/conference/ccs
-#   color: "#ECB748"
+# Publication badge colors, grouped by research area.
+# Muted earth tones chosen to sit alongside the oak/cream site theme;
+# every color keeps white badge text at WCAG AA contrast (>= 4.5:1).
 
-# "AsiaCCS":
-#   url: https://dl.acm.org/conference/asia-ccs
-#   color: "#ECB748"
+# --- Machine learning (theme oak) ---
+"NeurIPS":
+  color: "#946E24"
+"ICML":
+  color: "#946E24"
+"ICLR":
+  color: "#946E24"
+"AAAI":
+  color: "#946E24"
+"KDD":
+  color: "#946E24"
 
-# "ACSAC":
-#   url: https://www.acsac.org/
-#   color: "#ECB748"
+# --- Natural language processing (deep teal) ---
+"ACL":
+  color: "#2E6B6B"
+"EMNLP":
+  color: "#2E6B6B"
+"NAACL":
+  color: "#2E6B6B"
 
-# "AAAI":
-#   url: https://aaai.org/aaai-conference/
-#   color: "#1565C0"
+# --- Security & privacy (deep wine) ---
+"CCS":
+  color: "#7A2433"
+"AsiaCCS":
+  color: "#7A2433"
+"ACSAC":
+  color: "#7A2433"
 
-# "CVPR":
-#   url: https://cvpr.thecvf.com/
-#   color: "#1565C0"
+# --- Computer vision (slate blue) ---
+"CVPR":
+  color: "#3D5A80"
+"ECCV":
+  color: "#3D5A80"
+"ICCV":
+  color: "#3D5A80"
+"BMVC":
+  color: "#3D5A80"
 
-# "ECCV":
-#   url: https://eccv2022.ecva.net/
-#   color: "#1565C0"
+# --- Speech & signal processing (plum) ---
+"ICASSP":
+  color: "#6B4E71"
+"JSPS":
+  color: "#6B4E71"
 
-# "ICMLW":
-#   color: "#1565C0"
+# --- Mobile & distributed systems (olive) ---
+"MobiCom":
+  color: "#56693F"
+"HotMobile":
+  color: "#56693F"
+"GetMobile":
+  color: "#56693F"
+"ICPADS":
+  color: "#56693F"
 
-# "MobiCom":
-#   url: https://dl.acm.org/conference/mobicom
-#   color: "#8BA18E"
+# --- Health & biomedical informatics (rust) ---
+"AMIA":
+  color: "#B05A3A"
+"JAMIA":
+  color: "#B05A3A"
+"JMIR":
+  color: "#B05A3A"
+"EMBC":
+  color: "#B05A3A"
+"Nat. Commun.":
+  color: "#B05A3A"
+"Sci. Data":
+  color: "#B05A3A"
 
-# "HotMobile":
-#   url: https://dl.acm.org/conference/hotmobile
-#   color: "#8BA18E"
-
-# "GetMobile":
-#   url: https://dl.acm.org/conference/hotmobile
-#   color: "#8BA18E"
+# --- Preprints (warm grey) ---
+"arXiv":
+  color: "#6E6A64"
