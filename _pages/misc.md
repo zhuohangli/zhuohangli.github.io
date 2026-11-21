@@ -47,6 +47,7 @@ nav_order: 6
 - Machine Learning for Healthcare (MLHC)
 - International Symposium on Cyber Security, Cryptology and Machine Learning (CSCML)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
 
 ##### Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
@@ -65,6 +66,7 @@ nav_order: 6
 ### Awards
 ---
 
+- Gold Reviewer, ICML, 2026
 - Graduate School Travel Grant, Vanderbilt University, 2023-2025
 - Student Innovation Award (2nd Place), AMIA KDDM, 2023
 - Tennessee’s Top 100 Fellowship, UTK Graduate School, 2020-2022
